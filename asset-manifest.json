@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/smarc-ui/static/css/main.e3fa2c2e.chunk.css",
+    "main.js": "/smarc-ui/static/js/main.2dcd236d.chunk.js",
+    "main.js.map": "/smarc-ui/static/js/main.2dcd236d.chunk.js.map",
+    "runtime-main.js": "/smarc-ui/static/js/runtime-main.a197d651.js",
+    "runtime-main.js.map": "/smarc-ui/static/js/runtime-main.a197d651.js.map",
+    "static/css/2.58b762bd.chunk.css": "/smarc-ui/static/css/2.58b762bd.chunk.css",
+    "static/js/2.b728384c.chunk.js": "/smarc-ui/static/js/2.b728384c.chunk.js",
+    "static/js/2.b728384c.chunk.js.map": "/smarc-ui/static/js/2.b728384c.chunk.js.map",
+    "static/js/3.6c2db3d1.chunk.js": "/smarc-ui/static/js/3.6c2db3d1.chunk.js",
+    "static/js/3.6c2db3d1.chunk.js.map": "/smarc-ui/static/js/3.6c2db3d1.chunk.js.map",
+    "index.html": "/smarc-ui/index.html",
+    "static/css/2.58b762bd.chunk.css.map": "/smarc-ui/static/css/2.58b762bd.chunk.css.map",
+    "static/css/main.e3fa2c2e.chunk.css.map": "/smarc-ui/static/css/main.e3fa2c2e.chunk.css.map",
+    "static/js/2.b728384c.chunk.js.LICENSE.txt": "/smarc-ui/static/js/2.b728384c.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/smarc-ui/static/media/revicons.e8746a62.woff",
+    "static/media/zidane.f302add7.png": "/smarc-ui/static/media/zidane.f302add7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a197d651.js",
+    "static/css/2.58b762bd.chunk.css",
+    "static/js/2.b728384c.chunk.js",
+    "static/css/main.e3fa2c2e.chunk.css",
+    "static/js/main.2dcd236d.chunk.js"
+  ]
+}
